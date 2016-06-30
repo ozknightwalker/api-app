@@ -13,4 +13,4 @@ The application shows the github profile of the given username
 Show github account details such as github ratings/score and also the profile link
 ![alt tag](http://i.imgur.com/QIq7nuX.png)
 Leaflet map enables you to give the number of users in a given polygon by clicking any parts of the map
-![image here](hhttp://i.imgur.com/DAWY0Qf.png)
+![image here](http://i.imgur.com/DAWY0Qf.png)
