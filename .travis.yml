@@ -6,10 +6,6 @@ cache:
   directories:
     - "node_modules"
 
-branches:
-  only:
-  - update
-
 install:
   - npm install
   - npm run generate
@@ -23,5 +19,3 @@ deploy:
   github-token: $GITHUB_ACCESS_TOKEN
   target-branch: gh-pages
   local-dir: dist
-  on:
-    branch: update
