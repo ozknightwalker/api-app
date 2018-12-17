@@ -1,5 +1,7 @@
 # API - Hackaton app
 
+[![Build Status](https://travis-ci.org/ozknightwalker/api-app.svg?branch=update)](https://travis-ci.org/ozknightwalker/api-app)
+
 An app using Github, Simisimi, RandomAvatarGenerator, and Leafet api joined together to create a single page app
 
 ## Build Setup
